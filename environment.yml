@@ -1,0 +1,17 @@
+name: credit-approval-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip>=25
+  - pip:
+    - ipykernel
+    - jupyter
+    - mlflow>=3.0
+    - numpy==2.3.1
+    - pandas==2.3.0
+    - scikit-learn==1.7.0
+    - scipy==1.16.0
+    - torch==2.7.1
+    - matplotlib==3.10.3
+    - wandb
