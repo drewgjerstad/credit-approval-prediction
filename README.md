@@ -22,7 +22,10 @@ Here is the BibTeX citation for the dataset:
 ```
 
 ## Quick Links
- * Data Exploration Notebook
+ * [**Data Preparation Notebook**](src/data_prep.ipynb)  
+    _This notebook focuses on the preprocessing and exploration of the credit_
+    _approval dataset. It also includes the process for designing the data_
+    _preprocessing pipeline used throughout the project._
 
 
 ## Variable Information
