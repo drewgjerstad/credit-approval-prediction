@@ -10,7 +10,7 @@ emphasis on incorporating experiment tracking and code testing integrations
 names and symbols (where applicable) have been changed to meaningless symbols to
 protect data confidentiality.
 
-Here is the BibTeX citation for the dataset:
+Here is the BibTeX entry for the dataset's citation:
 ```
 @misc{credit_approval_27,
   author       = {Quinlan, J. R.},
@@ -26,6 +26,23 @@ Here is the BibTeX citation for the dataset:
     _This notebook focuses on the preprocessing and exploration of the credit_
     _approval dataset. It also includes the process for designing the data_
     _preprocessing pipeline used throughout the project._
+
+
+## Setup
+Although the dependencies for this project are commonly used in machine learning
+projects, the command below will use the information stored in `environment.yml`
+to create a Conda environment with all of these dependencies.
+```bash
+conda env create -f environment.yml
+```
+
+After creating the environment, activate it with:
+```bash
+conda activate credit-approval-env
+```
+
+## Running the Pipeline
+_(coming soon)_
 
 
 ## Variable Information
