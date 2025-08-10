@@ -22,10 +22,14 @@ Here is the BibTeX entry for the dataset's citation:
 ```
 
 ## Quick Links
+ * [**Project Plan**](project-plan.pdf)  
+   _This document contains diagrammed plans for this project, providing a_
+   _visualization into the design of the pipeline and its components._
  * [**Data Preparation Notebook**](src/data_prep.ipynb)  
     _This notebook focuses on the preprocessing and exploration of the credit_
     _approval dataset. It also includes the process for designing the data_
     _preprocessing pipeline used throughout the project._
+ * **Models Notebook** _(coming soon)_
 
 
 ## Setup
